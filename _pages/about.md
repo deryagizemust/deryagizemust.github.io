@@ -2,33 +2,38 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Cologne, North Rhine-Westphalia, Germany</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I’m **Derya Gizem Üst**, an LL.M. candidate and practicing attorney based in Cologne, Germany. My work and research focus on the intersection of artificial intelligence and data protection, especially under the European GDPR, and on comparative analyses between German and Turkish privacy regimes.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Over the last few years I have:
+- Conducted in-depth studies on **AI law and data protection**, advising on regulatory strategies for emerging AI systems.
+- Led the “Sen de Yapabilirsin!” gender-justice curriculum project and presented our findings at UN CSW64.
+- Served as a delegate to **UN Women’s CSW65**, advocating for the empowerment of schoolgirls in Eastern Turkey.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+When I’m not immersed in legal texts, you can find me exploring the latest developments on my favorite subreddit: [r/LegalAdvice](http://reddit.com/r/LegalAdvice).
+
+> **Motto:** “Law and technology must evolve together to protect human rights in the digital age.”
+
+Feel free to reach out via the contact info on the right, or connect with me on social media below!
