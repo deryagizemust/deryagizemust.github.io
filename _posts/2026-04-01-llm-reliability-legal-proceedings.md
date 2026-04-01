@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Reliability of Large Language Model Chatbots in Light of Publicly Reported Legal Proceedings
-date: 2026-04-01 10:00:00
+date: 2026-04-01 10:00:00 +0200
 description: LLM hallucinations and their legal consequences -- from fabricated court citations to GDPR complaints, an analysis of how AI reliability has become a concrete legal issue.
 tags: AI, LLM, hallucination, GDPR, reliability, legal-tech
 categories: law, technology, data-protection
