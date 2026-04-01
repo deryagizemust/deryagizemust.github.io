@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-wenn-ki-halluziniert-was-tun-wenn-chatgpt-amp-co-falsches-über-ihre-mandanten-erzählen",
+        },{id: "post-the-reliability-of-large-language-model-chatbots-in-light-of-publicly-reported-legal-proceedings",
+        
+          title: "The Reliability of Large Language Model Chatbots in Light of Publicly Reported Legal...",
+        
+        description: "LLM hallucinations and their legal consequences -- from fabricated court citations to GDPR complaints, an analysis of how AI reliability has become a concrete legal issue.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/llm-reliability-legal-proceedings/";
+          
+        },
+      },{id: "post-wenn-ki-halluziniert-was-tun-wenn-chatgpt-amp-co-falsches-über-ihre-mandanten-erzählen",
         
           title: "Wenn KI halluziniert - Was tun, wenn ChatGPT &amp; Co. Falsches über Ihre...",
         
