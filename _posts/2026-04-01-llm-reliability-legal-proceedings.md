@@ -137,7 +137,7 @@ We thank Prof. Mehmet Şahin and Dr. Ayşenur Ocak for their valuable contributi
 
 [^3]: Tim W. Dornis, Sebastian Stober, "Urheberrecht und Training generativer KI-Modelle: Technologische und juristische Grundlagen"; Jakob Hüger, "Die Rechtmäßigkeit von Datenverarbeitungen im Lebenszyklus von KI-Systemen", ZfDR 2024, p. 291.
 
-[^4]: HmbBfDI, Diskussionspapier: Large Language Models und personenbezogene Daten, 15.7.2024, [https://datenschutzhamburg.de](https://datenschutzhamburg.de/fileadmin/user_upload/HmbBfDI/Datenschutz/Informationen/240715_Diskussionspapier_HmbBfDI_KI_Modelle.pdf), p. 3, Accessed: 01.02.2026.
+[^4]: HmbBfDI, Diskussionspapier: Large Language Models und personenbezogene Daten, 15.7.2024, [https://datenschutz-hamburg.de](https://datenschutz-hamburg.de/fileadmin/user_upload/HmbBfDI/Datenschutz/Informationen/240715_Diskussionspapier_HmbBfDI_KI_Modelle.pdf), p. 3, Accessed: 01.02.2026.
 
 [^6]: HmbBfDI, Diskussionspapier, p. 3.
 
@@ -169,7 +169,7 @@ We thank Prof. Mehmet Şahin and Dr. Ayşenur Ocak for their valuable contributi
 
 [^20]: Eric Goldman, "ChatGPT Defeats Defamation Lawsuit Over Hallucination -- Walters v. OpenAI", Technology & Marketing Law Blog, 27.05.2025, [https://blog.ericgoldman.org](https://blog.ericgoldman.org/archives/2025/05/chatgpt-defeats-defamation-lawsuit-over-hallucination-walters-v-openai.htm), Accessed: 02.02.2026.
 
-[^21]: Justia U.S. Law, [https://law.justia.com/cases/new-york/other-courts/2024/2024-ny-slip-op-24258.html](https://law.justia.com/cases/new-york/other-courts/2024/2024-ny-slip-op-24258.html), Accessed: 02.02.2026.
+[^21]: Matter of Weber, 2024 NY Slip Op 24258 (N.Y. Surr. Ct. Oct. 10, 2024). See also Kyle Petersen, Tal Dickstein, "IP/Entertainment Case Law Updates, Walters v. OpenAI, L.L.C.", [https://www.loeb.com/en/insights/publications/2025/05/walters-v-openai-llc](https://www.loeb.com/en/insights/publications/2025/05/walters-v-openai-llc), Accessed: 02.02.2026.
 
 [^22]: Christian Thurow, "Unternehmen haftet für KI-Chatbot-Auskunft", C.H.Beck, [https://rsw.beck.de](https://rsw.beck.de/zeitschriften/bc/news-beitraege/2024/02/22/unternehmen-haftet-f%C3%BCr-ki-chatbot-auskunft), Accessed: 02.02.2026.
 
