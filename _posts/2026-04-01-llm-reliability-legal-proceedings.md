@@ -169,7 +169,7 @@ We thank Prof. Mehmet Şahin and Dr. Ayşenur Ocak for their valuable contributi
 
 [^20]: Eric Goldman, "ChatGPT Defeats Defamation Lawsuit Over Hallucination -- Walters v. OpenAI", Technology & Marketing Law Blog, 27.05.2025, [https://blog.ericgoldman.org](https://blog.ericgoldman.org/archives/2025/05/chatgpt-defeats-defamation-lawsuit-over-hallucination-walters-v-openai.htm), Accessed: 02.02.2026.
 
-[^21]: Matter of Weber, 2024 NY Slip Op 24258 (N.Y. Surr. Ct. Oct. 10, 2024). See also Kyle Petersen, Tal Dickstein, "IP/Entertainment Case Law Updates, Walters v. OpenAI, L.L.C.", [https://www.loeb.com/en/insights/publications/2025/05/walters-v-openai-llc](https://www.loeb.com/en/insights/publications/2025/05/walters-v-openai-llc), Accessed: 02.02.2026.
+[^21]: Matter of Weber, 2024 NY Slip Op 24258 (N.Y. Surr. Ct. Oct. 10, 2024).
 
 [^22]: Christian Thurow, "Unternehmen haftet für KI-Chatbot-Auskunft", C.H.Beck, [https://rsw.beck.de](https://rsw.beck.de/zeitschriften/bc/news-beitraege/2024/02/22/unternehmen-haftet-f%C3%BCr-ki-chatbot-auskunft), Accessed: 02.02.2026.
 
