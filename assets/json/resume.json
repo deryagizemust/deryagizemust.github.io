@@ -86,18 +86,12 @@
     {
       "name": "AI Law and Data Protection",
       "level": "Expert",
-      "keywords": [
-        "GDPR",
-        "AI Regulation"
-      ]
+      "keywords": ["GDPR", "AI Regulation"]
     },
     {
       "name": "Comparative Data Protection Law",
       "level": "Expert",
-      "keywords": [
-        "Germany",
-        "Turkey"
-      ]
+      "keywords": ["Germany", "Turkey"]
     }
   ],
   "languages": [

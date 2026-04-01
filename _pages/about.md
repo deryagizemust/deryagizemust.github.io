@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
@@ -28,6 +28,7 @@ latest_posts:
 Hello! I’m **Derya Gizem Üst**, an LL.M. candidate and practicing attorney based in Cologne, Germany. My work and research focus on the intersection of artificial intelligence and data protection, especially under the European GDPR, and on comparative analyses between German and Turkish privacy regimes.
 
 Over the last few years I have:
+
 - Conducted in-depth studies on **AI law and data protection**, advising on regulatory strategies for emerging AI systems.
 - Led the “Sen de Yapabilirsin!” gender-justice curriculum project and presented our findings at UN CSW64.
 - Served as a delegate to **UN Women’s CSW65**, advocating for the empowerment of schoolgirls in Eastern Turkey.

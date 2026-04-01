@@ -11,7 +11,7 @@ categories: law, technology, data-protection
 
 **Att. Derya Gizem Üst, LL.M.**
 
-*Istanbul Bar Association -- Information Technology Law Commission -- Artificial Intelligence Working Group 2026*
+_Istanbul Bar Association -- Information Technology Law Commission -- Artificial Intelligence Working Group 2026_
 
 **Keywords:** artificial intelligence, LLM, chatbot, hallucination, reliability
 
@@ -132,53 +132,31 @@ We thank Prof. Mehmet Şahin and Dr. Ayşenur Ocak for their valuable contributi
 ## References
 
 [^1]: Paulina Jo Pesch, Rainer Böhme, "Verarbeitung personenbezogener Daten und Datenrichtigkeit bei großen Sprachmodellen", MMR 2023, p. 917-918.
-
 [^2]: Vaswani et al., "Attention Is All You Need", 02.08.2023, p. 2, [https://arxiv.org/pdf/1706.03762](https://arxiv.org/pdf/1706.03762), Accessed: 30.01.2026.
-
 [^3]: Tim W. Dornis, Sebastian Stober, "Urheberrecht und Training generativer KI-Modelle: Technologische und juristische Grundlagen"; Jakob Hüger, "Die Rechtmäßigkeit von Datenverarbeitungen im Lebenszyklus von KI-Systemen", ZfDR 2024, p. 291.
-
 [^4]: HmbBfDI, Diskussionspapier: Large Language Models und personenbezogene Daten, 15.7.2024, [https://datenschutz-hamburg.de](https://datenschutz-hamburg.de/fileadmin/user_upload/HmbBfDI/Datenschutz/Informationen/240715_Diskussionspapier_HmbBfDI_KI_Modelle.pdf), p. 3, Accessed: 01.02.2026.
-
 [^6]: HmbBfDI, Diskussionspapier, p. 3.
-
 [^7]: HmbBfDI, Diskussionspapier, p. 3.
-
 [^8]: Matthias Grabmair (2024). Natural Language Processing (NLP). Martin Ebers (Ed.), SWK Legal Tech, Baden-Baden, 5th Edition, par. 27.
-
 [^9]: Matthias Grabmair (2024). Natural Language Processing (NLP). Martin Ebers (Ed.), SWK Legal Tech, Baden-Baden, 5th Edition, par. 27.
-
 [^10]: Marit Hansen, Benjamin Walczak, "Die KI zaubert nicht", KIR 2024, p. 82.
-
 [^11]: Jo Pesch, "Potentials and Challenges of Large Language Models (LLMs) in the Context of Administrative Decision-Making", European Journal of Risk Regulation 2025, p. 78.
-
 [^12]: Werner Vogd, Jonathan Harth, Das Bewusstsein der Maschinen - die Mechanik des Bewusstseins, Weilerswist 2023, p. 146.
-
 [^13]: Carlini et al., "Extracting Training Data from Large Language Models", Proceeding 30th USENIX Security Symposium 2021, p. 2634, [https://www.usenix.org/system/files/sec21-carlini-extracting.pdf](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf), Accessed: 28.01.2026.
-
 [^14]: OpenAI Platform, [https://platform.openai.com/docs/models/compare](https://platform.openai.com/docs/models/compare), Accessed: 02.02.2026.
-
 [^15]: OpenAI, [https://help.openai.com/en/articles/7842364](https://help.openai.com/en/articles/7842364-how-chatgpt-and-our-foundation-models-are-developed), Accessed: 02.04.2026.
-
 [^16]: Paulina Jo Pesch, Rainer Böhme, "Verarbeitung personenbezogener Daten und Datenrichtigkeit bei großen Sprachmodellen", MMR 2023, p. 921.
-
 [^17]: Amon Dieker, "Datenschutzrechtliche Zulässigkeit der Trainingsdatensammlung", ZD 2024, p. 133.
-
 [^18]: Markus Kaulartz, Tom Braegelmann (Ed.), Rechtshandbuch AI und Machine Learning, Ch. 8.7, Par. 17.
-
 [^19]: Marit Hansen, Benjamin Walczak, "Die KI zaubert nicht", KIR 2024, p. 83.
-
 [^20]: Eric Goldman, "ChatGPT Defeats Defamation Lawsuit Over Hallucination -- Walters v. OpenAI", Technology & Marketing Law Blog, 27.05.2025, [https://blog.ericgoldman.org](https://blog.ericgoldman.org/archives/2025/05/chatgpt-defeats-defamation-lawsuit-over-hallucination-walters-v-openai.htm), Accessed: 02.02.2026.
-
 [^21]: Matter of Weber, 2024 NY Slip Op 24258 (N.Y. Surr. Ct. Oct. 10, 2024).
-
 [^22]: Christian Thurow, "Unternehmen haftet für KI-Chatbot-Auskunft", C.H.Beck, [https://rsw.beck.de](https://rsw.beck.de/zeitschriften/bc/news-beitraege/2024/02/22/unternehmen-haftet-f%C3%BCr-ki-chatbot-auskunft), Accessed: 02.02.2026.
-
 [^23]: Christian Heinze, Christoph Sorge, Louisa Specht-Riemenschneider, "Das Recht der Künstlichen Intelligenz", KIR 2024, p. 12.
-
 [^24]: For further case-law analysis, see [https://www.damiencharlotin.com/hallucinations/](https://www.damiencharlotin.com/hallucinations/).
 
 ---
 
-*Editor: H. Sena Lezgioğlu Özer | Translator: Nilay Puyan*
+_Editor: H. Sena Lezgioğlu Özer | Translator: Nilay Puyan_
 
-*Istanbul Bar Association · Information Technology Law Commission · Artificial Intelligence Working Group · 2026*
+_Istanbul Bar Association · Information Technology Law Commission · Artificial Intelligence Working Group · 2026_
